@@ -11,6 +11,8 @@ Departament
 - sub-departments ['array of departments']
 
 ## ladder
+
+```
 department 1
 --
   | manager
@@ -24,3 +26,4 @@ department 1
         --
           | employees
           | ...
+```
