@@ -21,7 +21,7 @@ public:
 class Job_Person : public Person
 {
 public:
-    string position;    // компания
+    string position;   
 };
 
 class Department {
