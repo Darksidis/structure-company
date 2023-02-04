@@ -1,0 +1,3 @@
+C:/Users/user/CLionProjects/The structure of the company/cmake-build-debug/CMakeFiles/The_structure_of_the_company.dir
+C:/Users/user/CLionProjects/The structure of the company/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/CLionProjects/The structure of the company/cmake-build-debug/CMakeFiles/rebuild_cache.dir
