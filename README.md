@@ -10,3 +10,16 @@ Departament
 - employees []
 - sub-departments ['array of departments']
 
+## ladder
+department 1
+--
+  | manager
+  ----
+      | employees
+      | ....
+      -- sub-departments
+        | 
+        | manager
+        --
+          | employees
+          | ...
