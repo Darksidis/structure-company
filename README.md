@@ -17,6 +17,7 @@ department 1
   ----
       | employees
       | ....
+      |
       -- sub-departments
         | 
         | manager
