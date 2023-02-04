@@ -8,7 +8,7 @@ Graphic display (in the form of a ladder) of the OOP principle, the structure of
 Departament
 - manager (belongs to the worker class) 
 - employees []
-- sub-departments ['array of departments']
+- sub-departments [*array of departments*]
 
 ## ladder
 
